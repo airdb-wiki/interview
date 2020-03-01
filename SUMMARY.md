@@ -12,7 +12,7 @@
 		* [解决问题的能力](wiki/solution/ops.md)
 	* Programming
 		* [编程题1](wiki/coding-1.md)
-	* Github 面试题(wiki/github/interview.md)
+	* [Github 面试题](wiki/github/interview.md)
 * 求职者 英文面试
 	* [关于个人](wiki/Phone-Interview-Questions-About-You.md)
 	* [背景](wiki/Phone-Interview-Questions-About-Your-Background.md)
