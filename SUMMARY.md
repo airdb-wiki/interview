@@ -21,7 +21,7 @@
 * 面试官 FORMAL INTERVIEWER
 	* [小经验](wiki/e1.md)
 	* [面试官问题](wiki/q1.md)
-* 面试官 FORMAL INTERVIEWER
+	* [面试官英文评价](wiki/interviewer/evaluation.md)
 
 ## Tags
 
