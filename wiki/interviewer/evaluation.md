@@ -11,6 +11,13 @@ Overall, his technical skill meet the expectation
 CDD's programming skill is average, he can explain the idea and can implement within the timeline(30 minutes).
 - 候选人编程能力还可以，他可以在说清楚自己的想法，并且在指定的时间内完成编程。
 
+## 负面评价
+
+It is a bit hard for him to get the question and to explain his ideas. 
+- 他不能理解问题，讲不清自己的想法。
+
+And he also could not explain his own project clearly.
+- 而且无法讲清楚自己的做过的项目。
 
 ## 评价短语
 
