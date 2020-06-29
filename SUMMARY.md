@@ -22,8 +22,8 @@
 	* [Demo](wiki/demo.md)
 * 面试官 FORMAL INTERVIEWER
 	* [小经验](wiki/e1.md)
-	* [面试官问题](wiki/q1.md)
-	* [面试官英文评价](wiki/interviewer/evaluation.md)
+	* [提问](wiki/q1.md)
+	* [英文评价](wiki/interviewer/evaluation.md)
 
 ## Tags
 
