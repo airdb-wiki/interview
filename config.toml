@@ -1,4 +1,4 @@
-baseURL = "https://www.airdb.com/interview"
+baseURL = "https://airdb.dev/interview"
 languageCode = "en-us"
 title = "airdb"
 theme = "book"
