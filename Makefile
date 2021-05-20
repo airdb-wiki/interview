@@ -7,6 +7,7 @@ run:
 
 sub:
 	git submodule update --init
+	git submodule update --remote
 
 build:
 	hugo -D --minify
