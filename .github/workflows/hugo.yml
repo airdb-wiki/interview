@@ -3,7 +3,8 @@ name: Build with Hugo
 on: [push]
 
 jobs:
-  hugo-minimum:
+  build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
