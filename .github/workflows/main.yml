@@ -20,12 +20,4 @@ jobs:
 
       - name: Run Hugo
         working-directory: ./
-        run: make
-
-     - name: Deploy
-       uses: peaceiris/actions-gh-pages@v2
-       env:
-         # PERSONAL_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-         GITHUB_TOKEN: ${{ secrets.GithubBotToken }}
-         PUBLISH_BRANCH: gh-pages
-         PUBLISH_DIR: ./public
+        run: hugo -D --minify
