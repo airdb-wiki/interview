@@ -16,7 +16,7 @@ headless: true
 
 - Data Struct
 - Sloution
-- Programming
+- **Programming**
   - [1 笛卡尔积]({{< relref "programming/1-cartesian-product.md" >}})
   - [2 LRU]({{< relref "programming/2-lru.md" >}})
 
