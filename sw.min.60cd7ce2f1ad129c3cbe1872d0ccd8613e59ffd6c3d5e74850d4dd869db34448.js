@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/interview/sw.js",{scope:"/interview/"})
