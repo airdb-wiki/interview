@@ -37,15 +37,15 @@ disablePathToLower = true
 #  contentDir = 'content.cn'
 #  weight = 3
 
-[menu]
-[[menu.before]]
-  name = "Home"
-  url = "https://www.airdb.com"
-  weight = 10
-[[menu.before]]
-  name = "Github"
-  url = "https://github.com/airdb"
-  weight = 20
+#[menu]
+#[[menu.before]]
+#  name = "Home"
+#  url = "https://www.airdb.com"
+#  weight = 10
+#[[menu.before]]
+#  name = "Github"
+#  url = "https://github.com/airdb"
+#  weight = 20
 #[[menu.after]]
 #  name = "Github"
 #  url = "https://github.com/alex-shpak/hugo-book"
@@ -85,12 +85,12 @@ disablePathToLower = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to 'content' directory of repo.
-  BookEditPath = 'tree/master/content'
+  BookEditPath = 'tree/main/content'
 
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = 'Jan 2, 2006'
+  BookDateFormat = 'Mon Jan 2 15:04:05 MST 2006'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
