@@ -14,4 +14,8 @@ export const navbarEn: NavbarConfig = [
     text: 'candidate',
     link: '/candidate',
   },
+  {
+    text: 'Tech',
+    link: '/tech',
+  },
 ]
