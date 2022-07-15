@@ -61,3 +61,20 @@ When are you avaliable to start working with us?
 
 - CDD is rambling: Cut in: Thanks, {CCD name}. If I can ask you to use another 1min to wrap up...
 
+
+### tips
+Coping skills
+
+How can you ask CDD to repeat politely?
+
+- Excuse me, I didn't hear you (properly). Could you please say that / run through that again?
+
+- I'm sorry.  I don't quite follow you, would you please repeat your ...?
+
+- Would you please say it again?
+
+- Sorry, did you say...? / You mean ...?
+
+- If I understand you correctly, ... ( your understanding)？
+
+- Could you please type it?
