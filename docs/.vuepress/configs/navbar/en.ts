@@ -7,11 +7,11 @@ export const navbarEn: NavbarConfig = [
     link: 'https://airdb.wiki',
   },
   {
-    text: 'interviewer',
+    text: 'Interviewer',
     link: '/interviewer',
   },
   {
-    text: 'candidate',
+    text: 'Candidate',
     link: '/candidate',
   },
   {
