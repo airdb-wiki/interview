@@ -26,6 +26,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/interviewer/README.md',
         '/interviewer/open.md',
+        '/interviewer/ask.md',
         '/interviewer/close.md',
       ],
     },
