@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as s,b as e,e as t}from"./app.10ed3485.js";const c={},o=e("h1",{id:"salary",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#salary","aria-hidden":"true"},"#"),t(" Salary")],-1),_=[o];function l(n,d){return r(),s("div",null,_)}var h=a(c,[["render",l],["__file","salary.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-554ad8d0","path":"/qa/tech/2-lru.html","title":"LRU CACHE IMPLEMENTATION IN GO","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657908223000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"qa/tech/2-lru.md"}');export{e as data};

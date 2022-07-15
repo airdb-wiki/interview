@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-45a47d03","path":"/tech/session.html","title":"Session","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657820240000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"tech/session.md"}');export{e as data};
