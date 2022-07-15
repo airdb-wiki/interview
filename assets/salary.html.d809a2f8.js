@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-2a3d9262","path":"/qa/general/salary.html","title":"Salary","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657911394000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"qa/general/salary.md"}');export{a as data};
