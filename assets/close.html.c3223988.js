@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as o,b as e,e as s}from"./app.58b542fa.js";const t={},n=e("h1",{id:"closing",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#closing","aria-hidden":"true"},"#"),s(" Closing")],-1),r=e("p",null,"Have a nice day!",-1),_=[n,r];function l(i,d){return c(),o("div",null,_)}var f=a(t,[["render",l],["__file","close.html.vue"]]);export{f as default};

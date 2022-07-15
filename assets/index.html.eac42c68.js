@@ -1,4 +1,4 @@
-import{_ as e,o as i,c as n,a as s}from"./app.3d4da96b.js";const l={},a=s(`<h1 id="interview" tabindex="-1"><a class="header-anchor" href="#interview" aria-hidden="true">#</a> Interview</h1><p>Personalize the linking script and run an interview</p><p>3 steps open -&gt; ask -&gt; close</p><div class="language-text ext-text line-numbers-mode"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#D4D4D4;">Opening
+import{_ as e,o as i,c as n,a as s}from"./app.58b542fa.js";const l={},a=s(`<h1 id="interview" tabindex="-1"><a class="header-anchor" href="#interview" aria-hidden="true">#</a> Interview</h1><p>Personalize the linking script and run an interview</p><p>3 steps open -&gt; ask -&gt; close</p><div class="language-text ext-text line-numbers-mode"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#D4D4D4;">Opening
 
 Hi xxx, May I know if I pronounced your name correctly?
 I&#39;m Dean from a dev team. Thanks for taking the time to have this interview with us.
