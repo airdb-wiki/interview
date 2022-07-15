@@ -41,4 +41,25 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
   ],
+  '/qa/': [
+    {
+      text: 'General Question',
+      children: [
+        '/qa/general/README.md',
+        '/qa/general/salary.md',
+      ],
+    },
+    {
+      text: 'Tech Question',
+      collapsible: false,
+      children: [
+        '/qa/tech/os.md',
+        '/qa/tech/session.md',
+        '/qa/tech/tcp.md',
+        '/qa/tech/tcp-state.md',
+        '/qa/tech/2-lru.md',
+        '/qa/tech/1-cartesian-product.md',
+      ],
+    },
+  ],
 }

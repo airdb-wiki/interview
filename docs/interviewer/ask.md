@@ -30,6 +30,10 @@ In what... are you proficient? (languages or ...)
 
 Cloud you desribe your latest projects?
 
+How do you arrange the project structure for ...?
+
+What difficulties did you meet?  How did you archive the goals?
+
 ### About xxx platform or systems
 
 Have you ever used? (xxx)
@@ -49,7 +53,11 @@ When are you avaliable to start working with us?
 ### How 
 
 
-# Handling Scenarios
+## 4. Handling Scenarios
 
+- Blank response: let me break down this question into a few parts.
 
+- CDD did not answer the question: Let me clarify this question so that you are clearer.
+
+- CDD is rambling: Cut in: Thanks, {CCD name}. If I can ask you to use another 1min to wrap up...
 

@@ -20,8 +20,8 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'System Architecture',
-      description: 'Make software  system stronger',
+      title: 'Interview',
+      description: 'Make the right people in the right jobs',
     },
     '/zh/': {
       lang: 'zh-CN',
@@ -37,7 +37,7 @@ export default defineUserConfig({
   // configure default theme
   theme: defaultTheme({
     logo: '/images/hero.png',
-    repo: 'airdb-wiki/devops',
+    repo: 'airdb-wiki/interview',
     docsDir: 'docs',
 
     // theme-level locales config
