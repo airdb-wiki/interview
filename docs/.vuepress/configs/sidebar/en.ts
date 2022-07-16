@@ -28,6 +28,7 @@ export const sidebarEn: SidebarConfig = {
         '/interviewer/open.md',
         '/interviewer/ask.md',
         '/interviewer/close.md',
+        '/interviewer/evaluation.md',
       ],
     },
   ],
