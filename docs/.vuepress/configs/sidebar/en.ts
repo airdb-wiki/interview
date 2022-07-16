@@ -37,7 +37,9 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         '/candidate/README.md',
-        '/reference/node-api.md',
+        '/candidate/mistake.md',
+        '/candidate/introduction.md',
+        '/candidate/job.md',
       ],
     },
   ],
