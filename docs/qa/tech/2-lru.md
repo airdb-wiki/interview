@@ -3,7 +3,7 @@
 https://girai.dev/blog/lru-cache-implementation-in-go/
 
 
-```golang
+```go
 package main
 
 import (
