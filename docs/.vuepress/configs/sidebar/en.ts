@@ -57,11 +57,20 @@ export const sidebarEn: SidebarConfig = {
       collapsible: false,
       children: [
         '/qa/tech/os.md',
+        '/qa/tech/db.md',
         '/qa/tech/session.md',
         '/qa/tech/tcp.md',
         '/qa/tech/tcp-state.md',
-        '/qa/tech/2-lru.md',
         '/qa/tech/1-cartesian-product.md',
+      ],
+    },
+  ],
+  '/algorithm/': [
+    {
+      text: 'Algo',
+      collapsible: true,
+      children: [
+        '/algorithm/lru.md',
       ],
     },
   ],

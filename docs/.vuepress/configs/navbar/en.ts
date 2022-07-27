@@ -18,4 +18,8 @@ export const navbarEn: NavbarConfig = [
     text: 'Q&A',
     link: '/qa',
   },
+  {
+    text: 'Algorithm',
+    link: '/algorithm/',
+  },
 ]
