@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-364cf628","path":"/qa/tech/db.html","title":"\u6570\u636E\u5E93","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658956027000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"qa/tech/db.md"}');export{e as data};
