@@ -19,7 +19,7 @@ export const navbarEn: NavbarConfig = [
     link: '/qa',
   },
   {
-    text: 'Algorithm',
-    link: '/algorithm/',
+    text: 'Coding',
+    link: '/coding/',
   },
 ]

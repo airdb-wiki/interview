@@ -65,12 +65,12 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
   ],
-  '/algorithm/': [
+  '/coding/': [
     {
-      text: 'Algo',
+      text: 'Coding',
       collapsible: true,
       children: [
-        '/algorithm/lru.md',
+        '/coding/lru.md',
       ],
     },
   ],
