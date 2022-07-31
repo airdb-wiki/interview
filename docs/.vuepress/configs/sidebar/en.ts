@@ -73,6 +73,7 @@ export const sidebarEn: SidebarConfig = {
         '/coding/lru.md',
         '/coding/binary-tree.md',
         '/coding/complexity.md',
+        '/coding/queue-no-lock.md',
       ],
     },
   ],
