@@ -68,7 +68,7 @@ export const sidebarEn: SidebarConfig = {
   '/coding/': [
     {
       text: 'Coding',
-      collapsible: true,
+      collapsible: false,
       children: [
         '/coding/lru.md',
         '/coding/binary-tree.md',
