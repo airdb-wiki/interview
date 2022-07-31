@@ -1,5 +1,10 @@
 # Feedback
 
+A interview feedback should contain 4 parts, 
+- a) Your decision
+- b) What impresses you
+- c) Candidate's weaknesses
+- d) Advice (optional)
 
 ## Key Point
 
