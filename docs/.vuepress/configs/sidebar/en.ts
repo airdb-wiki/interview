@@ -71,7 +71,8 @@ export const sidebarEn: SidebarConfig = {
       collapsible: false,
       children: [
         '/coding/lru.md',
-        '/coding/binary-tree.md',
+        '/coding/traverse-binary-tree.md',
+        '/coding/invert-binary-tree.md',
         '/coding/complexity.md',
         '/coding/queue-no-lock.md',
       ],
