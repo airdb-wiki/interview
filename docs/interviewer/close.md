@@ -4,6 +4,8 @@
 
 Right, so far I've been the one asking questions. Do you have any questions for me?
 
+That's all for my questions./That's enough from my side. Do you have any questions for me ?
+
 
 ## Next Steps
 
