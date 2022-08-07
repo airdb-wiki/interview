@@ -72,11 +72,45 @@ export const sidebarEn: SidebarConfig = {
       collapsible: false,
       children: [
         '/coding/lru.md',
-        '/coding/traverse-binary-tree.md',
-        '/coding/invert-binary-tree.md',
         '/coding/complexity.md',
         '/coding/queue-no-lock.md',
       ],
     },
+    {
+      "text": "堆与栈",
+      collapsible: true,
+      children: [
+        '/coding/stack/README.md',
+      ],
+    },
+    {
+      "text": "数组",
+      collapsible: true,
+      children: [
+        '/coding/stack/README.md',
+      ],
+    },
+    {
+      "text": "链表",
+      collapsible: true,
+      children: [
+        '/coding/stack/README.md',
+      ],
+    },
+    {
+      "text": "哈希表",
+      collapsible: true,
+      children: [
+        '/coding/stack/README.md',
+      ],
+    },
+    {
+      "text": "二叉树",
+      collapsible: false,
+      children: [
+        '/coding/tree/traverse-binary-tree.md',
+        '/coding/tree/invert-binary-tree.md',
+      ],
+    }
   ],
 }
