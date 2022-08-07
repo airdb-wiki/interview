@@ -71,7 +71,6 @@ export const sidebarEn: SidebarConfig = {
       text: 'Coding',
       collapsible: false,
       children: [
-        '/coding/lru.md',
         '/coding/complexity.md',
         '/coding/queue-no-lock.md',
       ],
@@ -94,7 +93,8 @@ export const sidebarEn: SidebarConfig = {
       "text": "链表",
       collapsible: true,
       children: [
-        '/coding/stack/README.md',
+        '/coding/linked-list/README.md',
+        '/coding/linked-list/lru.md',
       ],
     },
     {
