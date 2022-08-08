@@ -111,6 +111,14 @@ export const sidebarEn: SidebarConfig = {
         '/coding/tree/traverse-binary-tree.md',
         '/coding/tree/invert-binary-tree.md',
       ],
+    },
+    {
+      "text": "动态规划",
+      collapsible: false,
+      children: [
+    	'coding/dynamic-programming/README.md',
+      ],
     }
+
   ],
 }
