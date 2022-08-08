@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744b89da","path":"/coding/linked-list/lru.html","title":"LRU CACHE","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659980212000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"coding/linked-list/lru.md"}');export{e as data};
