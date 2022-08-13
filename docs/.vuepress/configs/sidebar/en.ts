@@ -74,7 +74,7 @@ export const sidebarEn: SidebarConfig = {
         '/coding/complexity.md',
         '/coding/queue-no-lock.md',
         '/coding/cartesian.md',
-	'/coding/sort_file.md',
+	'/coding/sort-file.md',
       ],
     },
     {
