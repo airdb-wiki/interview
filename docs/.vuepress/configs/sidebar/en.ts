@@ -117,7 +117,7 @@ export const sidebarEn: SidebarConfig = {
       "text": "动态规划",
       collapsible: false,
       children: [
-    	'coding/dynamic-programming/README.md',
+    	'/coding/dynamic-programming/README.md',
       ],
     }
 
