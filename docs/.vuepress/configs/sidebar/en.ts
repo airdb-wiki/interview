@@ -73,6 +73,7 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/coding/complexity.md',
         '/coding/queue-no-lock.md',
+        '/coding/cartesian.md',
       ],
     },
     {
