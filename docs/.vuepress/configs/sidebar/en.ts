@@ -88,7 +88,7 @@ export const sidebarEn: SidebarConfig = {
       "text": "数组",
       collapsible: true,
       children: [
-        '/coding/stack/README.md',
+        '/coding/array/README.md',
       ],
     },
     {
