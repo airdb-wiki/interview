@@ -75,6 +75,8 @@ export const sidebarEn: SidebarConfig = {
         '/coding/queue-no-lock.md',
         '/coding/cartesian.md',
 	'/coding/sort-file.md',
+	'/coding/token-bucket.md',
+	'/coding/top-k.md',
       ],
     },
     {
