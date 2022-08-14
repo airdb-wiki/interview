@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-370c4fef","path":"/coding/token-bucket.html","title":"\u4EE4\u724C\u6876","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660487015000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"coding/token-bucket.md"}');export{e as data};
