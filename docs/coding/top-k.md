@@ -97,8 +97,13 @@ func (c *ClientCounters) run() {
 }
 
 func main() {
-       clientCounters = NewClientCounters()
+       clientCounters := NewClientCounters()
        go clientCounters.run()
+
+       ip := "127.0.0.1"
+       if clientCounters != nil {
+	 clientCounters.put(ip)
+       }
 }
 
 ```
