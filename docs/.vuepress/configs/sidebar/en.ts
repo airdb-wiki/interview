@@ -74,9 +74,16 @@ export const sidebarEn: SidebarConfig = {
         '/coding/complexity.md',
         '/coding/queue-no-lock.md',
         '/coding/cartesian.md',
-	'/coding/sort-file.md',
 	'/coding/token-bucket.md',
 	'/coding/top-k.md',
+      ],
+    },
+    {
+      "text": "排序",
+      collapsible: true,
+      children: [
+        '/coding/sort/README.md',
+	'/coding/sort/sort-file.md',
       ],
     },
     {
