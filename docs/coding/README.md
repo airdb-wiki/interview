@@ -8,7 +8,7 @@ By default, the code will be implementated in GO.
 [leetcode golang实现](https://github.com/huangxingx/leetcode)
 
 
-https://programmercarl.com/
+[代码随想录](https://programmercarl.com/)
 
 [Written interview knowledge - zh](https://hit-alibaba.github.io/interview/index.html)
 
