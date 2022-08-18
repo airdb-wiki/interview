@@ -12,6 +12,10 @@
 
 层次遍历：只需按层次遍历即可
 
+深度优先
+
+广度优先
+
 
 https://app.diagrams.net/#Hairdb%2Fdrawio%2Fmain%2Ftree.drawio
 
